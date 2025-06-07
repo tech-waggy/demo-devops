@@ -3,7 +3,7 @@ name: Deploy Hola Mundo
 on:
   push:
     branches:
-      - main
+      - gh-pages
 
 jobs:
   deploy:
